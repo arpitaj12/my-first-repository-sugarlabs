@@ -1,1 +1,1 @@
-# my-first-repository-sugarlabs
+# My First Repository
